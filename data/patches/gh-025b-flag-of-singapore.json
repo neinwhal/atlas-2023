@@ -1,0 +1,78 @@
+{
+	"id": 393,
+	"name": "Flag of Singapore",
+	"description": "Singapore is a city-state in Southeast Asia.",
+	"links": {
+		"website": [
+			"https://en.wikipedia.org/wiki/Singapore",
+			"https://en.wikipedia.org/wiki/Flag_of_Singapore"
+		],
+		"subreddit": [
+			"PlaceSG",
+			"singapore"
+		],
+		"discord": [
+			"MY2bMNdApa"
+		]
+	},
+	"path": {
+		"49-75": [
+			[
+				338,
+				-47
+			],
+			[
+				338,
+				-23
+			],
+			[
+				356,
+				-23
+			],
+			[
+				356,
+				-47
+			]
+		],
+		"80-147": [
+			[
+				313,
+				-26
+			],
+			[
+				313,
+				-13
+			],
+			[
+				329,
+				-13
+			],
+			[
+				331,
+				-12
+			],
+			[
+				331,
+				-9
+			],
+			[
+				358,
+				-9
+			],
+			[
+				390,
+				-26
+			]
+		]
+	},
+	"center": {
+		"49-75": [
+			347,
+			-35
+		],
+		"80-147": [
+			352,
+			-17
+		]
+	}
+}
